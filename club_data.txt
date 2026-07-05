@@ -1,0 +1,11 @@
+event,harrypotter,2242006,5
+event,star,2242006,6
+event,s,2242006,7
+event,e,2242006,9
+event,ghg,568070,7
+student,sabah,4520007,manager,s
+student,sabah,4520007,manager
+student,sabah,4520007,regular
+student,sabah,4520007,manager
+student,sabah,452007,regular,harrypotter
+logsabah registered in harrypotter
